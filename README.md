@@ -15,4 +15,4 @@ __If you use this code, please cite the reference:__
 
 Original Article on CASGAP:  
 
-[1] Gupta, Nitant; Jayaraman, Arthi. Computational Approach for Structure Generation of Anisotropic Particles (CASGAP) with Targeted Distributions of Particle Design and Orientational Order. Submitted to Nanoscale 2023 (accepted). https://doi.org/10.1039/D3NR02425C
+[1] Gupta, Nitant; Jayaraman, Arthi. *Computational Approach for Structure Generation of Anisotropic Particles (CASGAP) with Targeted Distributions of Particle Design and Orientational Order.* [**Nanoscale 15** (2023) 14958-14970.](https://pubs.rsc.org/en/content/articlehtml/2023/nr/d3nr02425c)
